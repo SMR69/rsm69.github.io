@@ -7,13 +7,13 @@ Hoy en día, me dedico a capacitar a personas, a profesionales y a emprendedores
 > ## ¡Impulsa tu carrera con certificaciones de calidad y con reconocimientos oficial!
 ## Algunos de mis proyectos
 ### Proyecto NIPyi (actual)
-Es una Startup de servicios de capacitación y certificaciones de habilidades laborales con reconocimiento oficial.
+> Es una Startup de servicios de capacitación y certificaciones de habilidades laborales con reconocimiento oficial.
 ### Proyecto MSD-Soft (2009)
-Es una startup de servicio de capacitación para "Desarrolladores Web en trabajo remoto"
+> Es una startup de servicio de capacitación para "Desarrolladores Web en trabajo remoto"
 ### Proyecto NIPgi (2008)
-Es una startup de servicio de capacitación en teletrabajo. Incubado en ITESM campus Puebla.
+> Es una startup de servicio de capacitación en teletrabajo. Incubado en ITESM campus Puebla.
 ### Proyecto R@itnet (2001)
-Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
+> Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
 ## Sígueme en mis redes sociales
 * Facebook | Rsanchez69
 * LinkeId | Rsanchez69
