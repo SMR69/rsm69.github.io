@@ -24,6 +24,6 @@ Hoy en día, me dedico a capacitar a personas, a profesionales y a emprendedores
 </details>
 <Br>
 ## Sígueme en mis redes sociales
-*Facebook | Rsanchez69
-*LinkeId | Rsanchez69
-*X - Twitter | @Rsanchez2
+*Facebook: Rsanchez69
+*LinkeId: Rsanchez69
+*X - Twitter: @Rsanchez2
