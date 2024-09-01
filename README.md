@@ -22,6 +22,7 @@ Hoy en día, me dedico a capacitar a personas, a profesionales y a emprendedores
 <summary>Proyecto R@itnet (2001)</summary>
 > Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
 </details>
+<Br>
 ## Sígueme en mis redes sociales
 * Facebook | Rsanchez69
 * LinkeId | Rsanchez69
