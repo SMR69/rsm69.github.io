@@ -39,9 +39,9 @@ You can add an image or a code block, too.
 ```ruby
    puts "Hello World"
 ```
-
 </details>
+
 ## Sígueme en mis redes sociales:
-  ####Facebook: Rsanchez69
+  ##Facebook: ```ruby Rsanchez69```
   ####LinkeId: Rsanchez69
   ####X - Twitter: @Rsanchez2
