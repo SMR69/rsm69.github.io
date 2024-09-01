@@ -8,22 +8,38 @@ Hoy en día, me dedico a capacitar a personas, a profesionales y a emprendedores
 ## Algunos de mis proyectos
 <details>
 <summary>Proyecto NIPyi (actual)</summary>
-> Es una Startup de servicios de capacitación y certificaciones de habilidades laborales con reconocimiento oficial.
+Es una Startup de servicios de capacitación y certificaciones de habilidades laborales con reconocimiento oficial.
 </details>
 
 <details>
 <summary>Proyecto MSD-Soft (2009)</summary>
-> Es una startup de servicio de capacitación para "Desarrolladores Web en trabajo remoto"
+Es una startup de servicio de capacitación para "Desarrolladores Web en trabajo remoto"
 </details>
 
 <details>
 <summary>Proyecto NIPgi (2008)</summary>
-> Es una startup de servicio de capacitación en teletrabajo. Incubado en ITESM campus Puebla.
+Es una startup de servicio de capacitación en teletrabajo y telemprendimiento. Incubado en el Tec. de Monterrey campus Puebla.
 </details>
 
 <details>
 <summary>Proyecto R@itnet (2001)</summary>
-> Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
+Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
+</details>
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
 </details>
 ## Sígueme en mis redes sociales:
   ####Facebook: Rsanchez69
