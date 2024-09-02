@@ -42,6 +42,6 @@ You can add an image or a code block, too.
 </details>
 
 ## Sígueme en mis redes sociales:
-  - [ ]##Facebook: ```Rsanchez69```
-  ##LinkeId: ```Rsanchez69```
-  ####X - Twitter: ```@Rsanchez2```
+  - [ ] ##Facebook: ```Rsanchez69```
+  - [ ] LinkeId: ```Rsanchez69```
+  - [ ] X - Twitter: ```@Rsanchez2```
