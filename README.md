@@ -26,22 +26,7 @@ Es una startup de servicio de capacitación en teletrabajo y telemprendimiento. 
 Es una Startup de servicios de acceso a computadoras e internet con espacios dinámicos y versátiles que combinan trabajo, entretenimiento, aprendizaje y comunidad.
 </details>
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-</details>
-
 ## Sígueme en mis redes sociales:
-  - [ ] ##Facebook: ```Rsanchez69```
+  - [ ] Facebook: ```Rsanchez69```
   - [ ] LinkeId: ```Rsanchez69```
-  - [ ] X - Twitter: ```@Rsanchez2```
+  - [ ] X-Twitter: ```@Rsanchez2```
