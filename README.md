@@ -1,10 +1,10 @@
 # **Hola, soy Rafael Sánchez M.👍🏼**
 ## Informática & Capacitación laboral EC0076, EC0104, EC0366
 imagen
-### Soy Informático y adicionalmente curso la Ingeniería en Gestión de Tecnologías de la Información. 
-He fundado diversas startups y proyectos educativos. Estoy certificado en estándares laborales
+### Soy Informático y adicionalmente curso la Ingeniería en Gestión de Tecnologías de la Información (UVEG).
+He fundado diversas startups y proyectos educativos. Estoy certificado en estándares laborales. 
 Hoy en día, me dedico a capacitar a personas, a profesionales y a emprendedores a través de cursos y certificaciones laborales de alta calidad. Mis cursos te permitirán adquirir las habilidades necesarias para destacar en el mercado laboral y trabajar de forma remota.
-> ## ¡Impulsa tu carrera con certificaciones de calidad y con reconocimientos oficial!
+> ## ¡Impulsa tu carrera con certificaciones de calidad y con reconocimiento oficial!
 ## Algunos de mis proyectos
 <details>
 <summary>Proyecto NIPyi (actual)</summary>
